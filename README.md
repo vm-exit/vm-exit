@@ -4,7 +4,7 @@ I'm into kernel development and reverse engineering.
 
 <h4> Languages and Tools </h4>
 <a href="https://archlinux.org/">
-    <img alt="Arch Linux" src="./images/arch.svg" width="80" height="80"/>
+    <img alt="Arch Linux" src="./images/arch.svg" width="40" height="40"/>
 </a>
 
 <a href="https://visualstudio.microsoft.com/">
