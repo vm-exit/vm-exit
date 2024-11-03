@@ -8,11 +8,18 @@ I'm into kernel development and reverse engineering.
 </a>
 
 <a href="https://visualstudio.microsoft.com/">
-    <img alt="Visual Studio 2022" src="./images/VS.svg" width="80" height="80"/>
+    <img alt="Visual Studio 2022" src="./images/VS.svg" width="40" height="40"/>
 </a>
 
-<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="./images/vsc19.svg"/></a>
-<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html"><img alt="C" src="./images/C.svg"/></a>
+<a href="https://code.visualstudio.com/">
+    <img alt="Visual Studio Code" src="./images/vsc19.svg" width="40" height="40"/>
+</a>
+
+
+<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
+    <img alt="C" src="./images/C.svg" width="40" height="40"/>
+</a>
+
 <a href="https://cplusplus.com/"><img alt="C++" src="./images/cpp.svg"/></a>
 <a href="https://javascript.com/"><img alt="JavaScript" src="./images/js.svg"/></a>
 <a href="https://www.python.org/"><img alt="Python" src="./images/py.svg"/></a>
