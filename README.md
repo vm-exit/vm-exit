@@ -1,6 +1,6 @@
 ### Hello, World.
 
-I'm into kernel development and reverse engineering.
+I'm into kernel development, security research, and reverse engineering.
 
 <h4> Languages and Tools </h4>
 <a href="https://archlinux.org/">
