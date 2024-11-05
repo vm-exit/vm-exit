@@ -16,7 +16,7 @@ I'm into kernel development, security research, and reverse engineering.
 </a>
 
 <a href="https://ghidra-sre.org/">
-    <img alt="Ghidra" src="./images/ghidra.svg" width="40" height="40"/>
+    <img alt="Ghidra" src="./images/Ghidra.svg" width="40" height="40"/>
 </a>
 
 <a href="https://gnu.org/software/gnu-c-manual/gnu-c-manual.html">
