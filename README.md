@@ -7,10 +7,6 @@ I'm into kernel development, security research, and reverse engineering.
     <img alt="Arch Linux" src="./images/arch.svg" width="40" height="40"/>
 </a>
 
-<a href="https://visualstudio.microsoft.com/">
-    <img alt="Visual Studio 2022" src="./images/VS.svg" width="40" height="40"/>
-</a>
-
 <a href="https://code.visualstudio.com/">
     <img alt="Visual Studio Code" src="./images/vsc19.svg" width="40" height="40"/>
 </a>
